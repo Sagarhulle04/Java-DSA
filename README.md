@@ -9,3 +9,4 @@
 7. Find the highest altitude -> LeetCode 
 8.  Valid Digit Number -> LeetCode
 9.  Unique Paths -> LeetCode
+10.  Minimum Path Sum -> LeetCode
