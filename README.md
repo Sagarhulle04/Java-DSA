@@ -6,4 +6,5 @@
 4. House Robber 1 -> LeetCode
 5. House Robber 2 -> LeetCode
 6. Minimum Operations to Make Array Non Decreasing -> LeetCode
-7. Find the highest altitude -> LeetCode
+7. Find the highest altitude -> LeetCode 
+8.  Valid Digit Number -> LeetCode
