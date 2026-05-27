@@ -22,3 +22,4 @@
 20.  Target Sum -> LeetCode
 21.  Frog Jump -> LeetCode
 22.  Maximum Alternating Subsequence Sum -> LeetCode
+23.  Separate the Digits in an Array -> LeetCode
