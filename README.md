@@ -23,3 +23,4 @@
 21.  Frog Jump -> LeetCode
 22.  Maximum Alternating Subsequence Sum -> LeetCode
 23.  Separate the Digits in an Array -> LeetCode
+24.  Subtract the Product and Sum of Digits of an Integer -> LeetCode
