@@ -25,3 +25,4 @@
 23.  Separate the Digits in an Array -> LeetCode
 24.  Subtract the Product and Sum of Digits of an Integer -> LeetCode
 25.  Count Equal and Divisible Pairs in an Array -> LeetCode
+26.  Number of Pairs of Strings With Concatenation Equal to Target -> LeetCode
